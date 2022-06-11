@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">bvdv11</string>
+    <string name="weather_minsk_tomorrow">Погода в Минске на завтра</string>
 </resources>
